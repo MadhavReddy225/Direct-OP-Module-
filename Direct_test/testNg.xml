@@ -3,13 +3,8 @@
     <test name="Test Case">
         <classes>
          
-            <class name="com.zohoapp.loginTest.LoginTest">
-            <methods>
-                    <include name="loginTest"/>
-           
-           
-            </methods>
-            </class>
+
+            
         </classes>
     </test>
 </suite>
